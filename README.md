@@ -19,23 +19,22 @@ This is a wifiduck using old version (no locale option for languages of keyboard
 * click on COMx and click "all parameters" memories the baudrates note as Y 
 * Close all
 
-# Downloading firmeware of deauther (v2 or v3)
-* [v2](https://drive.google.com/file/d/1SDlyzD_QpOFj55N8Bah1HXs3y6TlexMn/view?usp=drive_link)
-* [v3](https://drive.google.com/file/d/1WL7oKunPQWnsbr8DNvbqR_WbKbHOmUb9/view?usp=drive_link)
+# Downloading firmeware of esp8266_wifi_duck
+* [esp8266_wifi_duck_4mb.bin](https://drive.google.com/file/d/1dyYwcLWXgXHHTSlG2xHnXsv1elhltd6t/view?usp=sharing)
   
 # Installation ESP8266Flasher
 * Download [esp8266Flasher](https://drive.google.com/file/d/1YC0DqRsgMTjVpCc77wQt9xKFKphjFWGM/view?usp=drive_link)
 * Launch ESP8266Flasher.exe
 
-# Flashing deauther 
-* Connect D3 with GND
-* Run NodeMCU flasher at  :
-  nodemcu-flasher-master\nodemcu-flasher-master\Win64\Release\ESP8266Flasher.exe
-  or
-  nodemcu-flasher-master\nodemcu-flasher-master\Win32\Release\ESP8266Flasher.exe
+# Flashing esp8266_wifi_duck
+* Download arduino and upload this code (select following port and type of board before uploading)
+* Connect The two pins as :
+  
+* Run esp8266 flasher named as  :
+ ESP8266Flasher.exe
 * In operation, Change port com as COMx
 * In config, change with the firmeware v2 or v3
 * In Advanced, change bauderate as Y at the first step
-* After successfull flashing, don't connect D3 with GND anymore
+* After successfull flashing, don't the two pins in the first step
   
 
