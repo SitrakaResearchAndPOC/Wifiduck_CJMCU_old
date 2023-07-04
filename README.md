@@ -46,6 +46,7 @@ This is a wifiduck using old version (no locale option for languages of keyboard
 * https://github.com/TheMMcOfficial/WiFiDuck-for-CJMCU-3212/blob/master/test.script
 * https://github.com/TheMMcOfficial/WiFiDuck-for-CJMCU-3212/tree/master/atmega_duck
 * https://github.com/puckk/CJMCU-3212
+</br> </br>
   
 * https://github.com/Insight1620/CJMCU-BadUSB
 * https://github.com/robertio/DM-3212-Badusb/blob/master/README.md
@@ -54,6 +55,7 @@ This is a wifiduck using old version (no locale option for languages of keyboard
 * https://github.com/Insight1620/CJMCU-BadUSB/commit/7242d8dd9e7ad2ba3751ede62c154e57d97315b4
 * https://github.com/mharjac/bad_ducky
 * https://github.com/asciiterminal/CJMCU_ATMEGA32U4_BADUSB
+</br> </br>
 
     
 * https://github.com/robertio/DM-3212-Badusb
@@ -62,10 +64,12 @@ This is a wifiduck using old version (no locale option for languages of keyboard
 * https://github.com/SpacehuhnTech/WiFiDuck#translate-keyboard-layout
 * https://github.com/spacehuhn/wifi_ducky/blob/master/arduino_wifi_duck/arduino_wifi_duck.ino
 * https://github.com/spacehuhn/wifi_ducky
+</br> </br>
 
   
 * https://www.youtube.com/watch?v=tU3NHCy0VU8
 * https://www.youtube.com/watch?v=BNcL5L2xMdI
 * https://www.youtube.com/watch?v=unaF6OSP7uc
+</br> </br>
 
 
