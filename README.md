@@ -4,6 +4,7 @@ This is a wifiduck using old version (no locale option for languages of keyboard
 * Could be used to act as keyboard wireless with pre-programmed payload
 * Devices : CJMCU, wifiducky DSTIKE, malduino
 * Tested devices : CJMCU
+<img src="https://github.com/SitrakaResearchAndPOC/Wifiduck_CJMCU_old/blob/main/cjmcu1.jpeg" width="1500px" align="center">
 
 # Installing driver of USB (could be CP21x, FT23X, CH340G, PL23X)
 (In my case, it's [CP21x](https://drive.google.com/file/d/18dX5ws61_A4EaHKuIYNDSMMeMPuJHZG5/view?usp=drive_link))
@@ -29,7 +30,7 @@ This is a wifiduck using old version (no locale option for languages of keyboard
 # Flashing esp8266_wifi_duck
 * Download arduino and upload this code (select following port and type of board before uploading)
 * Connect The two pins as :
-  
+
 * Run esp8266 flasher named as  :
  ESP8266Flasher.exe
 * In operation, Change port com as COMx
