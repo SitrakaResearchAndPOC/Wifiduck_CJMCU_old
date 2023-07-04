@@ -30,6 +30,9 @@ This is a wifiduck using old version (no locale option for languages of keyboard
 # Flashing esp8266_wifi_duck
 * Download Arduino and upload this code [step1](https://github.com/SitrakaResearchAndPOC/Wifiduck_CJMCU_old/blob/main/step1.ino)  (select following port and type of board before uploading) 
 * Connect The two pins as :
+  <img src="https://github.com/SitrakaResearchAndPOC/Wifiduck_CJMCU_old/blob/main/cjmcu2.jpeg" width="750px" align="center">
+  <img src="https://github.com/SitrakaResearchAndPOC/Wifiduck_CJMCU_old/blob/main/cjmcu3.jpeg" width="350px" align="center"></img>
+
 * Run esp8266 flasher named as  : ESP8266Flasher.exe
 * In operation, Change port com as COMx
 * In config, change with the firmeware esp8266_wifi_duck
