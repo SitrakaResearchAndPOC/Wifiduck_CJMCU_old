@@ -37,4 +37,34 @@ This is a wifiduck using old version (no locale option for languages of keyboard
 * In Advanced, change bauderate as Y at the first step
 * After successfull flashing, don't the two pins in the first step
   
+# Documentations
+* https://github.com/TheMMcOfficial/WiFiDuck-for-CJMCU-3212
+* https://github.com/puckk/CJMCU-3212
+* https://github.com/TheMMcOfficial/CJMCU-3212-wifi_ducky
+
+* https://github.com/TheMMcOfficial/WiFiDuck-for-CJMCU-3212/blob/master/test.script
+* https://github.com/TheMMcOfficial/WiFiDuck-for-CJMCU-3212/tree/master/atmega_duck
+* https://github.com/puckk/CJMCU-3212
+  
+* https://github.com/Insight1620/CJMCU-BadUSB
+* https://github.com/robertio/DM-3212-Badusb/blob/master/README.md
+* https://github.com/gidalo/CJMCU-BadUsb-keyboard-ITA-layout-lib
+* https://github.com/Insight1620/CJMCU-BadUSB
+* https://github.com/Insight1620/CJMCU-BadUSB/commit/7242d8dd9e7ad2ba3751ede62c154e57d97315b4
+* https://github.com/mharjac/bad_ducky
+* https://github.com/asciiterminal/CJMCU_ATMEGA32U4_BADUSB
+
+    
+* https://github.com/robertio/DM-3212-Badusb
+* https://github.com/SpacehuhnTech/WiFiDuck/issues/30
+* https://www.youtube.com/watch?v=G-Z2rf_AN-c&t=142s
+* https://github.com/SpacehuhnTech/WiFiDuck#translate-keyboard-layout
+* https://github.com/spacehuhn/wifi_ducky/blob/master/arduino_wifi_duck/arduino_wifi_duck.ino
+* https://github.com/spacehuhn/wifi_ducky
+
+  
+* https://www.youtube.com/watch?v=tU3NHCy0VU8
+* https://www.youtube.com/watch?v=BNcL5L2xMdI
+* https://www.youtube.com/watch?v=unaF6OSP7uc
+
 
