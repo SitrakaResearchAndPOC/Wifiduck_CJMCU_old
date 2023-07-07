@@ -40,6 +40,11 @@ This is a wifiduck using old version (no locale option for languages of keyboard
 * After successfull flashing, don't the two pins in the first step
 * Upload this code [arduino_ducky](https://github.com/SitrakaResearchAndPOC/Wifiduck_CJMCU_old/blob/main/arduino_wifi_duck.ino)  (select following port and type of board before uploading)
  
+# Using wifiduck
+* Reuplug the wifiduck
+* Finding wifi network name <i>wifiduk</i> and password <i>quackquack</i> or <i>wifiduck</i>
+* Testing duckyscript as you need
+
   
 # Documentations
 * https://github.com/TheMMcOfficial/WiFiDuck-for-CJMCU-3212
