@@ -2,8 +2,8 @@
 This is a wifiduck using old version (no locale option for languages of keyboard)  
 * Tools by spacehuhn for hacking HID using wifi (wifiduck using CJMCU devices)
 * Could be used to act as keyboard wireless with pre-programmed payload
-* Devices : CJMCU, wifiducky DSTIKE, malduino
-* Tested devices : CJMCU
+* Devices : wifiducky CJMCU, wifiducky DSTIKE, malduino W
+* Tested devices : wifiducky CJMCU
 <img src="https://github.com/SitrakaResearchAndPOC/Wifiduck_CJMCU_old/blob/main/cjmcu1.jpeg" width="250px" align="center">
 
 # Installing driver of USB (could be CP21x, FT23X, CH340G, PL23X)
