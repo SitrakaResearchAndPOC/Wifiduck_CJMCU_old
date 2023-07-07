@@ -43,6 +43,7 @@ This is a wifiduck using old version (no locale option for languages of keyboard
 # Using wifiduck
 * Reuplug the wifiduck
 * Finding wifi network name <i>wifiduk</i> and password <i>quackquack</i> or <i>wifiduck</i>
+* On broswer, enter: http://192.168.4.1
 * Testing duckyscript as you need
 
   
