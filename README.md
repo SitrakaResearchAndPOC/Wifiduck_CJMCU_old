@@ -28,7 +28,7 @@ This is a wifiduck using old version (no locale option for languages of keyboard
 * Launch ESP8266Flasher.exe
 
 # Flashing esp8266_wifi_duck
-* Download Arduino and upload this code [step1](https://github.com/SitrakaResearchAndPOC/Wifiduck_CJMCU_old/blob/main/step1.ino)  (select following port and type of board before uploading) 
+* Download this code and run with arduino Arduino  this code [step1](https://github.com/SitrakaResearchAndPOC/Wifiduck_CJMCU_old/blob/main/step1.ino)  (select following port and type of board before televersing the code) 
 * Connect The two pins as :
   <img src="https://github.com/SitrakaResearchAndPOC/Wifiduck_CJMCU_old/blob/main/cjmcu2.jpeg" width="750px" align="center">
   <img src="https://github.com/SitrakaResearchAndPOC/Wifiduck_CJMCU_old/blob/main/cjmcu3.jpeg" width="350px" align="center"></img>
@@ -38,7 +38,7 @@ This is a wifiduck using old version (no locale option for languages of keyboard
 * In config, change with the firmeware esp8266_wifi_duck
 * In Advanced, change bauderate as Y at the first step
 * After successfull flashing, don't the two pins in the first step
-* Upload this code [arduino_ducky](https://github.com/SitrakaResearchAndPOC/Wifiduck_CJMCU_old/blob/main/arduino_wifi_duck.ino)  (select following port and type of board before uploading)
+* Download this code [arduino_ducky](https://github.com/SitrakaResearchAndPOC/Wifiduck_CJMCU_old/blob/main/arduino_wifi_duck.ino)  (select following port and type of board before televersing the code)
  
 # Using wifiduck
 * Reuplug the wifiduck
